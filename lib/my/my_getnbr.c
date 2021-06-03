@@ -23,3 +23,8 @@ int my_getnbr(char const *str)
     nb *= neg;
     return (nb);
 }
+
+int main (void)
+{
+    return (0);
+}
